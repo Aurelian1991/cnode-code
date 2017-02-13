@@ -3,7 +3,7 @@
 > A Vue.js project [online demo](https://mov1er.github.io/cnode-page/)
 
 ![二维码扫一扫](https://i1.hoopchina.com.cn/blogfile/201702/09/BbsImg148662896862521_220x219big.png)
-##技术栈
+## Skill/技术栈
 
 - [Vue2.0](https://github.com/vuejs/vuex)
 - [Muse-UI](https://github.com/museui/muse-ui)
@@ -13,7 +13,7 @@
 - webpack-zepto ...
 
 
-## 构建步骤
+## Build Setup/构建步骤
 
 ``` bash
 # install dependencies
@@ -25,7 +25,7 @@ npm run dev
 ```
 
 
-##Content/目录结构
+## Content/目录结构
 <pre>
 .
 ├── README.md           
